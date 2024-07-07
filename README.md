@@ -8,9 +8,11 @@ As a Data Analyst, I would be assisting with this initiative and have been taske
 
 My first task would be to collect the top programming skills that are most in demand from various sources including: Job postings/Training portals/Surveys. 
 
-In this case, the data source that was used here would be Stack Overflow developer survey that was conducted from January 23 to February 14 and involved 88,883 software developers from 179 countries.
+Once I had collected enough data, I would begin analyzing the data and identify insights and trends.
 
-Once I have collected enough data, I would begin analyzing the data and identify insights and trends.
+In this case, the data source that was used here would be the Stack Overflow developer survey that was conducted from January 23 to February 14 and involved 88,883 software developers from 179 countries.
+
+Familiarization with this dataset was achieved through completing IBM labs on Coursera for the IBM Data Analyst Professional Certificate which encompassed topics such as Web Scraping, Dataset Exploration, Data Wrangling, Exploratory Data Analysis and Data Visualization. For this project, I used IBM Cognos Analytics for the visualizations for the data analysis that was conducted. 
 
 ---------------------------------------------------------------------------
 
@@ -25,5 +27,7 @@ For this project, I included the dashboards I built using IBM Cognos Analytics a
 - Around 3/4 of professional developers globally held at least a bachelor's degree.
 - Around 3/4 of survey respondents in professional developer roles were under 35 years old.
 - Windows and Linux were the most popular platforms to work with.
-- jQuery was the most popular web frame to work with. Angular.js, ASP.NET, and React.js also were quite popular as well.  
+- jQuery was the most popular web frame to work with. Angular.js, ASP.NET, and React.js also were quite popular as well.
+- The dominance of JavaScript and HTML/CSS and the adoption of MySQL highlights the central role of web development in the programming landscape
+- The prevalence of MySQL, PostgreSQL, and Microsoft SQL Server highlight the critical role of effective data management in software development. 
 
