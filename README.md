@@ -30,5 +30,5 @@ For this project, I included the dashboards I built using IBM Cognos Analytics a
 - jQuery was the most popular web frame to work with. Angular.js, ASP.NET, and React.js also were quite popular as well.
 - The dominance of JavaScript and HTML/CSS and the adoption of MySQL highlights the central role of web development in the programming landscape. The popularity of these technologies also suggest a degree of industry standardization, where certain tools become widely adopted due to their proven reliability and effectiveness. This can simplify collaboration and interoperability within the developer community. 
 - The high usage of SQL emphasizes the critical role of data management and querying in modern software applications acroos both web and non-web environments.
-- The rise of Python might also reflect its versatility and ease of use, atttracting developers across various domains from data science to software development
+- The rise of Python might also reflect its versatility and ease of use, attracting developers across various domains from data science to software development
 
