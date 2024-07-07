@@ -21,13 +21,14 @@ For this project, I included the dashboards I built using IBM Cognos Analytics a
 --------
 ##### General Insights/What I found
 
-- Javascript and HTML/CSS are the most common coding languages. Python and SQL also have a significant presence. 
-- MySQL leads as the most used DBMS with Microsoft SQL Server and PosgreSQL following closely behind.
+- Javascript and HTML/CSS were the most common coding languages. Python and SQL also had a significant presence. 
+- MySQL led as the most used DBMS with Microsoft SQL Server and PosgreSQL following closely behind.
 - Nearly 90% of survey respondents were male, with there being higher female representation among students rather than professional developers in regions like the US, India, and the UK.
 - Around 3/4 of professional developers globally held at least a bachelor's degree.
 - Around 3/4 of survey respondents in professional developer roles were under 35 years old.
 - Windows and Linux were the most popular platforms to work with.
 - jQuery was the most popular web frame to work with. Angular.js, ASP.NET, and React.js also were quite popular as well.
-- The dominance of JavaScript and HTML/CSS and the adoption of MySQL highlights the central role of web development in the programming landscape
-- The prevalence of MySQL, PostgreSQL, and Microsoft SQL Server highlight the critical role of effective data management in software development. 
+- The dominance of JavaScript and HTML/CSS and the adoption of MySQL highlights the central role of web development in the programming landscape. The popularity of these technologies also suggest a degree of industry standardization, where certain tools become widely adopted due to their proven reliability and effectiveness. This can simplify collaboration and interoperability within the developer community. 
+- The high usage of SQL emphasizes the critical role of data management and querying in modern software applications acroos both web and non-weeb environments.
+- The rise of Python might also reflect its versatility and ease of use, atttracting developers across various domains from data science to software development
 
