@@ -6,10 +6,24 @@ In this project I will assume that I have recently been hired as a Data Analyst 
 
 As a Data Analyst, I would be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills.
 
-My first task would be to collect the top programming skills that are most in demand from various sources including: Job postings/Training portals/Surveys
+My first task would be to collect the top programming skills that are most in demand from various sources including: Job postings/Training portals/Surveys. 
+
+In this case, the data source that was used here would be Stack Overflow developer survey that was conducted from January 23 to February 14 and involved 88,883 software developers from 179 countries.
 
 Once I have collected enough data, I would begin analyzing the data and identify insights and trends.
 
 ---------------------------------------------------------------------------
 
 For this project, I included the dashboards I built using IBM Cognos Analytics and a presentation using PowerPoint that is based on my analysis of the data that was conducted in previous modules of the course. 
+
+--------
+##### General Insights/What I found
+
+- Javascript and HTML/CSS are the most common coding languages. Python and SQL also have a significant presence. 
+- MySQL leads as the most used DBMS with Microsoft SQL Server and PosgreSQL following closely behind.
+- Nearly 90% of survey respondents were male, with there being higher female representation among students rather than professional developers in regions like the US, India, and the UK.
+- Around 3/4 of professional developers globally held at least a bachelor's degree.
+- Around 3/4 of survey respondents in professional developer roles were under 35 years old.
+- Windows and Linux were the most popular platforms to work with.
+- jQuery was the most popular web frame to work with. Angular.js, ASP.NET, and React.js also were quite popular as well.  
+
