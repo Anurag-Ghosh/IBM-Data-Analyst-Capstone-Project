@@ -10,7 +10,7 @@ My first task would be to collect the top programming skills that are most in de
 
 Once I had collected enough data, I would begin analyzing the data and identify insights and trends.
 
-In this case, the data source that was used here would be the Stack Overflow developer survey that was conducted from January 23 to February 14 and involved 88,883 software developers from 179 countries.
+In this case, the data source that was used here would be the Stack Overflow developer survey that was conducted from January 23 to February 14 of 2019 and involved 88,883 software developers from 179 countries.
 
 Familiarization with this dataset was achieved through completing IBM labs on Coursera for the IBM Data Analyst Professional Certificate which encompassed topics such as Web Scraping, Dataset Exploration, Data Wrangling, Exploratory Data Analysis and Data Visualization. For this project, I used IBM Cognos Analytics for the visualizations for the data analysis that was conducted. 
 
