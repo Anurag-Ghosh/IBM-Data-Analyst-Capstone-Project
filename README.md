@@ -1,4 +1,4 @@
-# IBM-Data-Analyst-Capstone-Project
+# IBM Data Analyst Capstone Project
 ### Final Project for IBM Data Analyst Professional Certificate
 
 #### Description
